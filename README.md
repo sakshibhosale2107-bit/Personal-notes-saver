@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 **Personal Notes Saver**
 <br>
 A simple CLI-based note-taking program created for the Viva/Project.
@@ -18,7 +17,6 @@ It lets the user add, view, and delete small text notes.
 
 
 **Features**
-<br>
 * Add a new note
 * View all saved notes
 * Delete a note
@@ -26,10 +24,9 @@ It lets the user add, view, and delete small text notes.
 
 
 **Files Included**
-<br>
 1. notes.py — main Python program
-3. notes.txt — stores the saved notes
-5. README.md — documentation file
+2. notes.txt — stores the saved notes
+3. README.md — documentation file
 
 
 **Requirements**
@@ -57,7 +54,4 @@ After running the program, you will see a menu like:
 Sakshi Dhananjay Bhosale
 <br>
 25BHI10052
-=======
-# Personal-notes-saver
-VITyarthi python essentials course project 2025-26
->>>>>>> 8ccf66e8c259c1ced937b3276aaf2344e8a3e52d
+
